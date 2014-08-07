@@ -34,7 +34,7 @@ class Viewer extends CActiveRecord {
             array('id, name', 'safe', 'on' => 'search'),
         );
     }
-
+////testing git
     /**
      * @return array relational rules.
      */
